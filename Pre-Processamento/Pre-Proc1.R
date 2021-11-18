@@ -1,5 +1,4 @@
 # Definindo o diretório de trabalho
-setwd("D:/DSA/7.PreparacaoCientistaDados/Cap03_Portfolio_Projetos/Projeto1/Pre-Processamento")
 getwd()
 
 # Pacotes
